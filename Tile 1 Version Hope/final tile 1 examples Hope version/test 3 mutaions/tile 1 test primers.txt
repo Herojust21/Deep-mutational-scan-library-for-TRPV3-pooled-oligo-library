@@ -1,0 +1,23 @@
+Foward primer tile 1  22-mer   58C 45%GC
+
+5' TTGGTCATGTGCTTTTCGTTGG 3'  
+
+Reverse primer tile 1  21-mer  55C 48%GC
+
+5' ATACTCAGAATCGATTCCCCG 3'
+
+Empty tile 1 forward primer 20-mer 56C 50%GC
+
+5' gaaagaaccgctagataccg 3'
+
+Empty tile 1 reverse primer 20-mer 57C 55%GC
+
+5' gaacttcctggacaagctcc 3'
+
+Sap1 tile 1 insert foward primer1 26-mer 62C 50%GC
+
+5'gtgaacgtGCTCTTCACTGGCTATTC 3'
+
+Sap1 tile 1 insert reverse primer1 20-mer 60C 60%GC
+
+5' cgttcactctGCTCTTCgcc 3'
